@@ -1,18 +1,18 @@
 # COP1800C Practical Midterm Workshop - Fall 2026
 
-**Estudiante:** Danilo Vílchez  
-**Curso:** COP1800C Java Programming I  
-**Profesor:** Dr. Daniel Narváez  
-**Institución:** Keiser University
+**Student:** Danilo Vílchez 
+**Course:** COP1800C Java Programming I  
+**Professor:** Dr. Daniel Narváez  
+**Institution:** Keiser University
 
 ---
 
-## Descripción del Proyecto
-Este repositorio contiene la solución completa para el examen parcial práctico (*Practical Midterm Workshop*), implementando cuatro programas en consola orientados a la gestión de un centro de estudio en el campus.
+## Project Description
+This repository contains the complete solution for the Practical Midterm Workshop, implementing four console-based programs designed for campus study center management.
 
 ---
 
-## Estructura del Repositorio
+## Repository Structure
 ```text
 COP1800C-Midterm-Danilo Vilchez/
 ├── README.md
